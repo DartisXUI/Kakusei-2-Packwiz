@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "e2f94e4cf2b0d9248c27d294a5616bf08f545b4ed54c690cb946d809a6286911"
+hash = "f375c9acc7559bc0ccaac38a65470c40c4120211c2e53415b74c2cf4950c43e6"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "af483d5e01f2f4a487e613020b041e686fceddbcb504468a67cf14245a845bf0"
+hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
 metafile = true
 
 [[files]]
