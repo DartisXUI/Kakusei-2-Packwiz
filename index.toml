@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "99b9835be50215dd6c12029bb4f6f338b454dde2f388e96c131090a26c8a019e"
+hash = "2676bfac716c4970e7cb978611cb21ebc365c461569e06a918442ccd02968c22"
 metafile = true
 
 [[files]]
@@ -609,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "4914d9f693f1d66690934a9459f88eeb9bc2582970b629453e56fc5912425344"
+hash = "13d35969a4d816ee67f8a05119a9f97c352bf8bf3667fcefca5d1b80ccc0cd7f"
 metafile = true
 
 [[files]]
@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "69ed0f6ed8d757d25064c5177af2d7e397b4dcd7a2f8730f3aa29ec1203d3650"
+hash = "a3849fea021077db80b4e709403f500a37652b9304b9355ac086e3c1386f57d0"
 metafile = true
 
 [[files]]
