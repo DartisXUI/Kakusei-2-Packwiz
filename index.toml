@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c23b44df7173c718fc9d063e059c9f11af68eb81c17fab3e054ee8f2b04d8b0f"
+hash = "e0f9921fedef71420bb9f1ed3047388f414562c7532f6197c00347ed975140b7"
 
 [[files]]
 file = "scripts/recipes.zs"
