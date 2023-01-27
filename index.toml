@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "f375c9acc7559bc0ccaac38a65470c40c4120211c2e53415b74c2cf4950c43e6"
+hash = "dca3e8d28b9b3732dcc14e4fec7aeae77d47cded5853229b1f6780c3ec654c82"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a39db085d980dcf786ea711276308ab7a0ef8424da5c3fb258389b78b6ef4023"
+hash = "ad31b269f91a5d20469089ecfb8bbf9e9966f30b39ad75368d7203a4992e0a02"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "13d35969a4d816ee67f8a05119a9f97c352bf8bf3667fcefca5d1b80ccc0cd7f"
+hash = "e994f8d07e78d04e4b7b4d3ae694ef27556d826b2b961e55ccbd4ec93dfb5d27"
 metafile = true
 
 [[files]]
