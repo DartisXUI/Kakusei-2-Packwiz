@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/etheralt-pack-utils.pw.toml"
-hash = "898dc68bfddee6d7b63f33eadf36556df9946b5167573b9bccbf1ca3b7587e05"
+hash = "930c2f6a74b7b26446c56b27245eab95af35d7cf0908c8d53b3487a5f36e37cc"
 metafile = true
 
 [[files]]
@@ -1013,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-network.pw.toml"
-hash = "dab62459369397955457d2e226ff81b29023f389109efda2ec06df559ff15e6a"
+hash = "34083a00cb93315b2b076ab06b5cd4be0aeb12ae0dc8e026b5b8ab5f846ae94d"
 metafile = true
 
 [[files]]

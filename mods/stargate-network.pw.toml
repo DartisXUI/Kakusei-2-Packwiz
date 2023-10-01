@@ -8,3 +8,6 @@ url = "https://github.com/bsixel/SGCraft/releases/download/2.0.6-mc1.12.2/SGCraf
 hash-format = "sha256"
 hash = "1c4a2beb5a845dc87aa16ac986e19f6d7cc41a2a409ee26b204295065973fa3d"
 mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
