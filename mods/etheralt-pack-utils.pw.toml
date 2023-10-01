@@ -1,0 +1,10 @@
+name = "Etheralt Pack Utils"
+filename = "etheralt-pack-utils-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/bsixel/etheralt-pack-utils/releases/download/v1.0.3/etheralt-pack-utils-1.12.2-1.0.3.jar"
+
+hash-format = "sha256"
+hash = "a1f18f8cddbbba019e4ceb4e045d972401165bd66c21754e857fef82496207fb"
+mode = "metadata:curseforge"

@@ -602,6 +602,11 @@ hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
 metafile = true
 
 [[files]]
+file = "mods/etheralt-pack-utils.pw.toml"
+hash = "898dc68bfddee6d7b63f33eadf36556df9946b5167573b9bccbf1ca3b7587e05"
+metafile = true
+
+[[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
@@ -1008,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-network.pw.toml"
-hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+hash = "dab62459369397955457d2e226ff81b29023f389109efda2ec06df559ff15e6a"
 metafile = true
 
 [[files]]
