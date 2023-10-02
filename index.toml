@@ -37,6 +37,10 @@ file = "config/enderstorage.cfg"
 hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
 [[files]]
+file = "config/etheraltpackutils.cfg"
+hash = "db5ee33d22e4e768123c136ee5a579aa46c99485acbc97c65ff4840c06dd5149"
+
+[[files]]
 file = "config/extrautils2.cfg"
 hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
 
