@@ -37,10 +37,6 @@ file = "config/enderstorage.cfg"
 hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
 [[files]]
-file = "config/etheraltpackutils.cfg"
-hash = "db5ee33d22e4e768123c136ee5a579aa46c99485acbc97c65ff4840c06dd5149"
-
-[[files]]
 file = "config/extrautils2.cfg"
 hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
 
@@ -556,11 +552,6 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
-file = "mods/custom-npcs.pw.toml"
-hash = "5dc674f18395c521d35560bed95784acfa4ec29869d1aeba0a74db67faf72ea8"
-metafile = true
-
-[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
@@ -603,11 +594,6 @@ metafile = true
 [[files]]
 file = "mods/engineers-workshop-reborn.pw.toml"
 hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
-metafile = true
-
-[[files]]
-file = "mods/etheralt-pack-utils.pw.toml"
-hash = "eba1e3c4c49bd21eed8a4bd8396479cdef546f7d0bfb16788dc90f1aa1dbba0d"
 metafile = true
 
 [[files]]
@@ -1017,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-network.pw.toml"
-hash = "e4c246de685c7f2424381f0d0b2f2c741b567c598d10969666c06b8c6f0ed52e"
+hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
 metafile = true
 
 [[files]]
