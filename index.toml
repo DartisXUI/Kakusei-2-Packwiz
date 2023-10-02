@@ -37,6 +37,10 @@ file = "config/enderstorage.cfg"
 hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
 [[files]]
+file = "config/etheraltpackutils.cfg"
+hash = "db5ee33d22e4e768123c136ee5a579aa46c99485acbc97c65ff4840c06dd5149"
+
+[[files]]
 file = "config/extrautils2.cfg"
 hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
 
@@ -597,6 +601,11 @@ hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
 metafile = true
 
 [[files]]
+file = "mods/etheralt-pack-utils.pw.toml"
+hash = "eba1e3c4c49bd21eed8a4bd8396479cdef546f7d0bfb16788dc90f1aa1dbba0d"
+metafile = true
+
+[[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
@@ -1003,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/stargate-network.pw.toml"
-hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+hash = "e4c246de685c7f2424381f0d0b2f2c741b567c598d10969666c06b8c6f0ed52e"
 metafile = true
 
 [[files]]
