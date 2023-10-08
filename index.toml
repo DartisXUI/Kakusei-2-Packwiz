@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "addonpacks/sps.zip"
-hash = "566ecd3a28e1846996e324717c1e33a86e3ac596344410e4cf938fb9c25fb70f"
+hash = "06ed96cbf1d475926d0401cbac2d83b4b043005bae444bf40e442d37b35d5f28"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
