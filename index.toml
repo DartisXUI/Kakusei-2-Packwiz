@@ -70,7 +70,7 @@ hash = "caebe3a5cebd5cf9278f89dd35c8e31a767c5f17fe32463e0ed3b0159ab79a5a"
 
 [[files]]
 file = "config/lucraftcore.cfg"
-hash = "57cc8177d6a53409fb0991efad8c9a1ef4029fd7fe56e528cd446251c6964188"
+hash = "4131717ed37bb6bce011c40018a74be25fb7ea9ad40bc5c5277d89d440b39386"
 
 [[files]]
 file = "config/microblocks.cfg"
