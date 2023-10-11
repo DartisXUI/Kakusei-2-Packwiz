@@ -6,7 +6,7 @@ hash = "d31ef06aec542cf73a043e0bb599268baa13d375d6b98e36b6a4d9839c264f56"
 
 [[files]]
 file = "addonpacks/sps.zip"
-hash = "b95076969a6fed754dad12a058176c4c0de90d3c41328b1e2306dcfb82977f98"
+hash = "f50330be5a5d0ead361859225302c9fcff98ca80d071bf5f799b2f7e3132a3b7"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
@@ -399,8 +399,18 @@ hash = "ce050f4ae82f3d6df53b775951c048d313a8b35eaf87e2125d42c8ee6bdbd5f8"
 metafile = true
 
 [[files]]
+file = "mods/aether-ii.pw.toml"
+hash = "ece5f8ded1b8d34341e11fe955d0dca5711f651424cd7e13a2106b11002fe051"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
+metafile = true
+
+[[files]]
+file = "mods/applecore.pw.toml"
+hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
 
 [[files]]
@@ -624,6 +634,11 @@ hash = "eafb0b5ea70aa40fd93e93331e0a4d59708b9a7502297a3ece67a3c83813f9a2"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
 metafile = true
@@ -701,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/ivtoolkit.pw.toml"
+hash = "1ce21898ee51d69f97aa0456f339965c7c6763b34853a25de72b30a1e23f42da"
 metafile = true
 
 [[files]]
@@ -924,11 +944,6 @@ hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
-file = "mods/quick-leaf-decay.pw.toml"
-hash = "39b626552a282e086380b98d1000b3c6514beeea0b488dc8f29f66a7cf80477b"
-metafile = true
-
-[[files]]
 file = "mods/ranged-pumps.pw.toml"
 hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
 metafile = true
@@ -941,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "58bc415d549e7d6848f874d7063d9cb1951cf2e41e9b4fec5e321566ff98fbeb"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.pw.toml"
+hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
 metafile = true
 
 [[files]]
