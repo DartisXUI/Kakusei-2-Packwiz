@@ -399,11 +399,6 @@ hash = "ce050f4ae82f3d6df53b775951c048d313a8b35eaf87e2125d42c8ee6bdbd5f8"
 metafile = true
 
 [[files]]
-file = "mods/aether-ii.pw.toml"
-hash = "ece5f8ded1b8d34341e11fe955d0dca5711f651424cd7e13a2106b11002fe051"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
