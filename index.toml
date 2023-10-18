@@ -46,7 +46,7 @@ hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
 [[files]]
 file = "config/etheraltpackutils.cfg"
-hash = "149337b4eb932fe98f556bc89cca829c25ba8b471fb48b0b7c98ca309f9352b8"
+hash = "f35d3e8be94277dfa525717455f8c334443e41a6c8eb7ac96630a537b820cc88"
 
 [[files]]
 file = "config/extrautils2.cfg"
