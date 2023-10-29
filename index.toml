@@ -93,6 +93,10 @@ file = "config/quark.cfg"
 hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 
 [[files]]
+file = "config/reccomplex.cfg"
+hash = "b3c4bd6ef4af1b55d87f3d9ca33b0eb7e9043605cb2069706b22963e3c33d487"
+
+[[files]]
 file = "config/ruins.txt"
 hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
 
