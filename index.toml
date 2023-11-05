@@ -186,7 +186,7 @@ hash = "369ab0275549adad54791dcd0529c225a6403bc71696cd68358c36c69da5ff6c"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
-hash = "7d918543d37a3186ecf9313895eab237aa3fde47483f93457da319c1ccbd3326"
+hash = "5354b815ebf9f2e31e9db783d5f559d842f9360d67c50df1dc51a54f812696d0"
 
 [[files]]
 file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-mk9-nether.tml"
@@ -342,7 +342,7 @@ hash = "26d3a6dc3928cc166212774509944e66b3f8ec0825838279161696dde6a22319"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-stargate-typesakyo-final.tml"
-hash = "7d918543d37a3186ecf9313895eab237aa3fde47483f93457da319c1ccbd3326"
+hash = "5354b815ebf9f2e31e9db783d5f559d842f9360d67c50df1dc51a54f812696d0"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-tombtrap-ae2.tml"
@@ -635,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/engineers-workshop-reborn.pw.toml"
 hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
+metafile = true
+
+[[files]]
+file = "mods/etheralt-utils.pw.toml"
+hash = "e2e6aec6de5b77b1300ee00f2a26a7625d2e11e65b199d028ee36927ee14b243"
 metafile = true
 
 [[files]]
