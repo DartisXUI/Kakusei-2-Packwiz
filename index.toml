@@ -233,6 +233,10 @@ file = "config/ruins_config/roofed_forest/JG_WarTower1Base_Seed_CB_1v12.tml"
 hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
 
 [[files]]
+file = "config/ruins_config/savanna/dartiscraft-ancient-repository-cavern-mk9.tml"
+hash = "37ec1b3fa15fbd2a323781356d5c6636465264212f7bfd234ec124dc36b62ea8"
+
+[[files]]
 file = "config/ruins_config/templateparser/CastleModified.tml"
 hash = "8cd0b5f0f54b842b33fb4133546f2818c2db6a8299d1d6b7177b7af3a6137f6c"
 
