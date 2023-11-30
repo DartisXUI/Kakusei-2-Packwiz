@@ -105,7 +105,7 @@ file = "config/ruins_config/beaches/dartiscraft-lighthouse-tesseract-configurato
 hash = "adb922eef270784aa45521cbe7011de6b965af24020168711af40f58753f653c"
 
 [[files]]
-file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-kree.tml"
+file = "config/ruins_config/beaches/dartiscraft-xmarksthespot-tnt-kree-typesand.tml"
 hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
@@ -113,8 +113,16 @@ file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-m
 hash = "5a80e078f1a45210bb3f58d4da0e050da018969ad3b97be4361905c6964e5646"
 
 [[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-xmarksthespot-tnt-kree-typegrass.tml"
+hash = "72e0ca5d1f845f7336d58e670e0a098e1463e803b80ace78d9b95a5f0bf1a607"
+
+[[files]]
 file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-tesseract-configurator.tml"
 hash = "adb922eef270784aa45521cbe7011de6b965af24020168711af40f58753f653c"
+
+[[files]]
+file = "config/ruins_config/birch_forest_hills/dartiscraft-xmarksthespot-tnt-kree-typegrass.tml"
+hash = "72e0ca5d1f845f7336d58e670e0a098e1463e803b80ace78d9b95a5f0bf1a607"
 
 [[files]]
 file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-mk9-desert.tml"
@@ -125,7 +133,15 @@ file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
 hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
 
 [[files]]
+file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-kree-typesand.tml"
+hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
+
+[[files]]
 file = "config/ruins_config/desert/dartiscraft-xmarksthespot-tnt-kree.tml"
+hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
+
+[[files]]
+file = "config/ruins_config/desert_hills/dartiscraft-xmarksthespot-tnt-kree-typesand.tml"
 hash = "570b8d9b56c03bc8e41d0cb9ea9465f9ef461ebc56721516edcf0e7c55fdd67d"
 
 [[files]]
@@ -141,8 +157,16 @@ file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-mk9.tml
 hash = "5a80e078f1a45210bb3f58d4da0e050da018969ad3b97be4361905c6964e5646"
 
 [[files]]
+file = "config/ruins_config/forest/dartiscraft-xmarksthespot-tnt-kree-typegrass.tml"
+hash = "72e0ca5d1f845f7336d58e670e0a098e1463e803b80ace78d9b95a5f0bf1a607"
+
+[[files]]
 file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-tesseract-configurator.tml"
 hash = "adb922eef270784aa45521cbe7011de6b965af24020168711af40f58753f653c"
+
+[[files]]
+file = "config/ruins_config/forest_hills/dartiscraft-xmarksthespot-tnt-kree-typegrass.tml"
+hash = "72e0ca5d1f845f7336d58e670e0a098e1463e803b80ace78d9b95a5f0bf1a607"
 
 [[files]]
 file = "config/ruins_config/generic/CastleModified.tml"
@@ -225,6 +249,10 @@ file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-mk9.tml
 hash = "37ec1b3fa15fbd2a323781356d5c6636465264212f7bfd234ec124dc36b62ea8"
 
 [[files]]
+file = "config/ruins_config/plains/dartiscraft-xmarksthespot-tnt-kree-typegrass.tml"
+hash = "72e0ca5d1f845f7336d58e670e0a098e1463e803b80ace78d9b95a5f0bf1a607"
+
+[[files]]
 file = "config/ruins_config/river/dartiscraft-goldrush.tml"
 hash = "0317662779e5f9b9b457ebebdaf6e389e473d736d7e05adbfde668afdb62fca4"
 
@@ -235,6 +263,10 @@ hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
 [[files]]
 file = "config/ruins_config/savanna/dartiscraft-ancient-repository-cavern-mk9.tml"
 hash = "37ec1b3fa15fbd2a323781356d5c6636465264212f7bfd234ec124dc36b62ea8"
+
+[[files]]
+file = "config/ruins_config/savanna/dartiscraft-xmarksthespot-tnt-kree-typegrass.tml"
+hash = "72e0ca5d1f845f7336d58e670e0a098e1463e803b80ace78d9b95a5f0bf1a607"
 
 [[files]]
 file = "config/ruins_config/templateparser/CastleModified.tml"
