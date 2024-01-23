@@ -45,6 +45,10 @@ file = "config/enderstorage.cfg"
 hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
 
 [[files]]
+file = "config/etheraltpackutils.cfg"
+hash = "3e9c375e8948a14ee82a3ce2e3a708dab6eea1d091868eba61d5ab8744daa76d"
+
+[[files]]
 file = "config/extrautils2.cfg"
 hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
 
@@ -672,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/engineers-workshop-reborn.pw.toml"
 hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
+metafile = true
+
+[[files]]
+file = "mods/etheralt-utils.pw.toml"
+hash = "e2e6aec6de5b77b1300ee00f2a26a7625d2e11e65b199d028ee36927ee14b243"
 metafile = true
 
 [[files]]
