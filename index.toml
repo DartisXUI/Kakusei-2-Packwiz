@@ -679,6 +679,11 @@ hash = "acdaf14f2cb42456b371b1966f790c07736e07f398bbe4f957a4988db308e174"
 metafile = true
 
 [[files]]
+file = "mods/etheralt-utils.pw.toml"
+hash = "e2e6aec6de5b77b1300ee00f2a26a7625d2e11e65b199d028ee36927ee14b243"
+metafile = true
+
+[[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
