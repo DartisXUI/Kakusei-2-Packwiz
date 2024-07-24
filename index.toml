@@ -453,6 +453,31 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/animalium.pw.toml"
+hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
+metafile = true
+
+[[files]]
+file = "mods/animania-cats-dogs.pw.toml"
+hash = "d35ef50555fd3695c0289f3b158d35b1e03be05444256e91ff74298b7725b01e"
+metafile = true
+
+[[files]]
+file = "mods/animania-extra.pw.toml"
+hash = "1ef50d884cdf717aeec398beacfe5f32acef367d8acf3eff5e82c06aa0db43d5"
+metafile = true
+
+[[files]]
+file = "mods/animania-farm.pw.toml"
+hash = "7205eacc42b2032a7bde4a9ba4dd3ed825a1530622c64ba2da8e516ae3bda5e7"
+metafile = true
+
+[[files]]
+file = "mods/animania.pw.toml"
+hash = "c41535d40cdbd5685b39e177a6d365f1e208947b79de0ecb88da34ebf302823a"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
@@ -488,13 +513,18 @@ hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
 metafile = true
 
 [[files]]
+file = "mods/atlcraft-candles-mod.pw.toml"
+hash = "b31a9bd0f102bb98a218c91904022e9ac53624f85dd225aefdb31d1657addeae"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "015243b60b4dcb33daf534acaf70c1dd4f8c6a28c9eebb8152603ad57fa539da"
 metafile = true
 
 [[files]]
@@ -510,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/bdlib.pw.toml"
 hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
+metafile = true
+
+[[files]]
+file = "mods/bear-with-me.pw.toml"
+hash = "3a1bb371fee8b1d64d2e5f3288a52fb305668ded62d1fa7d7318b076a4e2b3a6"
 metafile = true
 
 [[files]]
@@ -608,6 +643,11 @@ hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
 
 [[files]]
+file = "mods/craftstudio-api.pw.toml"
+hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
 metafile = true
@@ -615,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
+metafile = true
+
+[[files]]
+file = "mods/crop-eating-animals.pw.toml"
+hash = "0314864b9d81bfc8a8dfcf565bc90aa64a49d068b039584ff2639022b09396a3"
 metafile = true
 
 [[files]]
@@ -738,8 +783,18 @@ hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
+file = "mods/haloenergyswordsmod.pw.toml"
+hash = "e4bc2641d53eb89176e2143db83104829679590612a29322495c87462b2adb0f"
+metafile = true
+
+[[files]]
 file = "mods/heroesexpansion.pw.toml"
 hash = "6661e8feb7b6f674a6704b5cd7f5bb92c1c97e9fc35ed8bcee49c6da83317fa8"
+metafile = true
+
+[[files]]
+file = "mods/horse-tweaks.pw.toml"
+hash = "db8018266ead23ac0382439a100b09af5a48f22721e96972322ff9a7eba34e5c"
 metafile = true
 
 [[files]]
@@ -823,6 +878,11 @@ hash = "5ea6930633d74fb846b1fb63ebd4b5b1c4e9048dc8a3702ef3d87959e755ef1e"
 metafile = true
 
 [[files]]
+file = "mods/libraryex.pw.toml"
+hash = "3b801e140a30d59835776b7382e90fe95068e1dbb1204289f68ad8ee49d9d27f"
+metafile = true
+
+[[files]]
 file = "mods/libvulpes.pw.toml"
 hash = "09ddaa6cba7a9c86e7429492deb3ef0b8def5a8f10234a5f2b50173789574d01"
 metafile = true
@@ -903,6 +963,11 @@ hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
 metafile = true
 
 [[files]]
+file = "mods/netherex.pw.toml"
+hash = "78c2a3d060bb60a73e797ce2c3036729a9cc471d37601149181b030ee8b7b6c9"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
@@ -965,6 +1030,11 @@ metafile = true
 [[files]]
 file = "mods/prefab.pw.toml"
 hash = "31bbc6945bfacffcf758667208d4a48865f1db6f1ab7e1c748d2721874a17ccc"
+metafile = true
+
+[[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
 metafile = true
 
 [[files]]
@@ -1058,6 +1128,11 @@ hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
 metafile = true
 
 [[files]]
+file = "mods/rough-mobs.pw.toml"
+hash = "e9c1f2efd360aa99ca4dc6d1ca80138a2385994010242b2a552a4c1fd67d9725"
+metafile = true
+
+[[files]]
 file = "mods/ruins-structure-spawning-system.pw.toml"
 hash = "038af7817472326b3139b6fd788d85d3af9380b0fbc95794164fbb07d04c0ed6"
 metafile = true
@@ -1108,8 +1183,18 @@ hash = "7a27f40a9d81021a6f694ead36f25e80e64c8fcd6ebf0d7dfd6058176a5a911c"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-wolves.pw.toml"
+hash = "9460df8924a51e9b4b4f2639d2cdf7bb960f3d8170ecc2237d99c662423b5ffb"
+metafile = true
+
+[[files]]
 file = "mods/super-factory-manager.pw.toml"
 hash = "2b1cc04677251c1a835b65cea63d35733d05a6833a03eda3a323c0f00f1531a7"
+metafile = true
+
+[[files]]
+file = "mods/swingthroughgrass.pw.toml"
+hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
