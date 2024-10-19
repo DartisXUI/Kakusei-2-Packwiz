@@ -517,11 +517,6 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
-metafile = true
-
-[[files]]
 file = "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar"
 hash = "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
 
