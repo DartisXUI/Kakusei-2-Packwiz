@@ -1186,6 +1186,11 @@ hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
+file = "mods/tellme.pw.toml"
+hash = "4021df31f9c7d3c3af31695df69eb2d8ae18f735cd9b0fd0631662fa9e6d8877"
+metafile = true
+
+[[files]]
 file = "mods/tesla-core-lib.pw.toml"
 hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
