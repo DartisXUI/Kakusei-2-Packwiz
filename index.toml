@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "15702c9b7edd14bd65b2d3bd7209777cada3b07842663c9b13d2d46e9836afcc"
+hash = "d131eb7d705326e6101e07a3fad60f935eb46931f5eb862650c5e33464f1078b"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "0402631d0bc1cde268123b1d2113969ab0b960fc32c70362d85ab111e7c4dd1d"
+hash = "6ba1099e93560d740acdc054cdaeef958be3386faab77c519959805d3138c9f7"
 metafile = true
 
 [[files]]
